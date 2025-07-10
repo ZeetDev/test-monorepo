@@ -1,3 +1,4 @@
+import "@root/shared/styles/global.css";
 import "./admin.css";
 
 export const metadata = {

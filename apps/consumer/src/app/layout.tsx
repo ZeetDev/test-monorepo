@@ -1,3 +1,4 @@
+import "@root/shared/styles/global.css";
 import "./consumer.css";
 
 export const metadata = {
